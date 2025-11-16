@@ -1,3 +1,21 @@
+<div align="center">
+
+# 👻 The Gateway Ghost  
+### Real Systems • Traceable Workflows • Offline-First Engines
+
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fthegatewayghost.com&label=Website%20Live&style=for-the-badge&color=brightgreen)
+![Integrity Chain](https://img.shields.io/badge/Traceable%20Proof%20Chain-SHA--256-blue?style=for-the-badge)
+![Local First](https://img.shields.io/badge/Local--First-Offline%20Authorship-important?style=for-the-badge)
+
+[Website](https://thegatewayghost.com)  
+[LinkedIn](https://www.linkedin.com/in/thegatewayghost)  
+[Substack](https://markthegatewayghost.substack.com)  
+[GitHub Truth Chain](https://github.com/Ghost1-Art)
+
+</div>
+
+---
+
 # **Mark Peter Rigden — The Gateway Ghost**
 ### **Building real systems, not shortcuts.**
 
